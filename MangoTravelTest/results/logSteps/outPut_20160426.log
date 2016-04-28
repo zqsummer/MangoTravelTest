@@ -1,0 +1,327 @@
+INFO:root:2016-04-26 10:01:45 - ActionCruiseShip - into_cruiseBC
+home主页点击邮轮
+主页点击邮轮
+点击邮轮包船
+进入app
+主页点击邮轮
+INFO:root:2016-04-26 10:04:10 - ActionCruiseShip - check_banner - 第一个banner图片 滑动到第二个
+INFO:root:2016-04-26 10:16:02 - ActionCruiseShip - check_banner - 进入app
+INFO:root:2016-04-26 10:16:10 - ActionCruiseShip - check_banner - home主页点击邮轮
+INFO:root:2016-04-26 10:16:21 - ActionCruiseShip - check_banner - 第一个banner图片 滑动到第二个
+INFO:root:2016-04-26 10:25:06 - ActionCruiseShip - check_banner - 进入app
+INFO:root:2016-04-26 10:25:13 - ActionCruiseShip - check_banner - home主页点击邮轮
+INFO:root:2016-04-26 10:25:16 - ActionCruiseShip - check_banner - 第一个banner图片 滑动到第二个
+INFO:root:2016-04-26 10:29:02 - ActionCruiseShip - check_crusie_home - 进入app
+INFO:root:2016-04-26 10:29:08 - ActionCruiseShip - check_crusie_home - home主页点击邮轮
+INFO:root:2016-04-26 10:30:27 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 10:30:34 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 10:30:35 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 10:34:07 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 10:34:14 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 10:34:19 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 10:34:24 - ActionCruiseShip - check_area_product -点击日韩
+INFO:root:2016-04-26 10:37:15 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 10:37:21 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 10:37:22 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 10:37:23 - ActionCruiseShip - check_area_product -点击日韩
+INFO:root:2016-04-26 10:38:56 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 10:39:03 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 10:39:04 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 10:39:09 - ActionCruiseShip - check_area_product -点击日韩
+INFO:root:2016-04-26 10:39:09 - ActionCruiseShip - check_area_product - Exception : Message: Argument was an invalid selector (e.g. XPath/CSS).
+
+INFO:root:2016-04-26 10:41:14 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 10:41:20 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 10:41:21 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 10:41:23 - ActionCruiseShip - check_area_product -点击日韩
+INFO:root:2016-04-26 10:41:24 - ActionCruiseShip - check_area_product -点击东南亚
+INFO:root:2016-04-26 10:41:24 - ActionCruiseShip - check_area_product - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 10:44:15 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 10:44:22 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 10:44:25 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 10:46:42 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 10:46:50 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 10:46:53 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 10:47:01 - ActionCruiseShip - check_area_product -点击东南亚
+INFO:root:2016-04-26 10:47:06 - ActionCruiseShip - check_area_product -点击地中海
+INFO:root:2016-04-26 10:47:10 - ActionCruiseShip - check_area_product -点击阿拉斯加
+INFO:root:2016-04-26 10:48:19 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 10:48:25 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 10:48:27 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 10:48:28 - ActionCruiseShip - check_area_product -点击东南亚
+INFO:root:2016-04-26 10:48:30 - ActionCruiseShip - check_area_product -点击地中海
+INFO:root:2016-04-26 10:48:31 - ActionCruiseShip - check_area_product -点击阿拉斯加
+INFO:root:2016-04-26 10:48:32 - ActionCruiseShip - check_area_product -点击日韩
+INFO:root:2016-04-26 10:48:34 - ActionCruiseShip - check_area_product - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 10:54:49 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 10:54:58 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 10:55:00 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 10:55:06 - ActionCruiseShip - check_area_product -点击东南亚
+INFO:root:2016-04-26 10:55:10 - ActionCruiseShip - check_area_product -点击地中海
+INFO:root:2016-04-26 10:55:12 - ActionCruiseShip - check_area_product -点击阿拉斯加
+INFO:root:2016-04-26 10:55:15 - ActionCruiseShip - check_area_product -点击日韩
+INFO:root:2016-04-26 10:55:33 - ActionCruiseShip - check_area_product -点击进入详情
+INFO:root:2016-04-26 11:05:44 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 11:05:50 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 11:05:51 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 11:05:55 - ActionCruiseShip - check_area_product -点击东南亚
+INFO:root:2016-04-26 11:05:58 - ActionCruiseShip - check_area_product -点击地中海
+INFO:root:2016-04-26 11:05:58 - ActionCruiseShip - check_area_product -点击阿拉斯加
+INFO:root:2016-04-26 11:05:59 - ActionCruiseShip - check_area_product -点击日韩
+INFO:root:2016-04-26 11:06:03 - ActionCruiseShip - check_area_product -点击进入详情
+INFO:root:2016-04-26 11:06:03 - ActionCruiseShip - check_area_product - Exception : class ElementCruiseShip has no attribute 'XPATH_AREA_FIRST'
+INFO:root:2016-04-26 11:08:53 - ActionCruiseShip - check_area_product - 进入app
+INFO:root:2016-04-26 11:08:59 - ActionCruiseShip - check_area_product - home主页点击邮轮
+INFO:root:2016-04-26 11:09:01 - ActionCruiseShip - check_area_product - 滑动到推荐产品
+INFO:root:2016-04-26 11:09:04 - ActionCruiseShip - check_area_product -点击东南亚
+INFO:root:2016-04-26 11:09:06 - ActionCruiseShip - check_area_product -点击地中海
+INFO:root:2016-04-26 11:09:06 - ActionCruiseShip - check_area_product -点击阿拉斯加
+INFO:root:2016-04-26 11:09:07 - ActionCruiseShip - check_area_product -点击日韩
+INFO:root:2016-04-26 11:09:09 - ActionCruiseShip - check_area_product -点击进入详情
+INFO:root:2016-04-26 11:09:09 - ActionCruiseShip - check_area_product - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 11:51:46 - ActionCruiseShip - check_area_product
+INFO:root:2016-04-26 11:51:46 - 进入app
+INFO:root:2016-04-26 11:51:52 - home主页点击邮轮
+INFO:root:2016-04-26 11:51:53 - 滑动到推荐产品
+INFO:root:2016-04-26 11:51:55 - 点击东南亚
+INFO:root:2016-04-26 11:51:56 - 点击地中海
+INFO:root:2016-04-26 11:51:58 - 点击阿拉斯加
+INFO:root:2016-04-26 11:51:59 - 点击日韩
+INFO:root:2016-04-26 11:52:00 - 点击进入详情
+INFO:root:2016-04-26 11:52:00 - Exception : 
+INFO:root:2016-04-26 13:36:31 - ActionCruiseShip - check_area_product
+INFO:root:2016-04-26 13:36:31 - 进入app
+INFO:root:2016-04-26 13:36:38 - home主页点击邮轮
+INFO:root:2016-04-26 13:36:38 - 滑动到推荐产品
+INFO:root:2016-04-26 13:36:42 - 点击东南亚
+INFO:root:2016-04-26 13:36:43 - 点击地中海
+INFO:root:2016-04-26 13:36:43 - Exception : 
+INFO:root:2016-04-26 13:39:43 - ActionCruiseShip - check_area_product
+INFO:root:2016-04-26 13:39:43 - 进入app
+INFO:root:2016-04-26 13:39:51 - home主页点击邮轮
+INFO:root:2016-04-26 13:39:53 - 滑动到推荐产品
+INFO:root:2016-04-26 13:40:02 - 点击东南亚
+INFO:root:2016-04-26 13:40:05 - 点击地中海
+INFO:root:2016-04-26 13:40:07 - 点击阿拉斯加
+INFO:root:2016-04-26 13:40:11 - 点击日韩
+INFO:root:2016-04-26 13:40:23 - 点击进入详情
+INFO:root:2016-04-26 13:41:30 - ActionCruiseShip - check_area_product
+INFO:root:2016-04-26 13:41:30 - 进入app
+INFO:root:2016-04-26 13:41:36 - home主页点击邮轮
+INFO:root:2016-04-26 13:41:37 - 滑动到推荐产品
+INFO:root:2016-04-26 13:41:39 - 点击东南亚
+INFO:root:2016-04-26 13:41:40 - 点击地中海
+INFO:root:2016-04-26 13:41:41 - 点击阿拉斯加
+INFO:root:2016-04-26 13:41:43 - 点击日韩
+INFO:root:2016-04-26 13:41:44 - 点击进入详情
+INFO:root:2016-04-26 15:40:21 - ActionCruiseShip - into_cruiseBK - 进入app
+INFO:root:2016-04-26 15:40:28 - ActionCruiseShip - into_cruiseBK - home主页点击邮轮
+INFO:root:2016-04-26 15:40:29 - ActionCruiseShip - into_cruiseBK - 点击邮轮百科
+INFO:root:2016-04-26 15:42:08 - ActionCruiseShip - into_cruiseBK - 进入app
+INFO:root:2016-04-26 15:42:14 - ActionCruiseShip - into_cruiseBK - home主页点击邮轮
+INFO:root:2016-04-26 15:42:15 - ActionCruiseShip - into_cruiseBK - 点击邮轮百科
+INFO:root:2016-04-26 15:42:19 - ActionCruiseShip - into_cruiseBK - Exception : unbound method is_text_exist() must be called with Common instance as first argument (got str instance instead)
+INFO:root:2016-04-26 15:46:48 - ActionCruiseShip - into_cruiseBK - 进入app
+INFO:root:2016-04-26 15:46:49 - ActionCruiseShip - into_cruiseBK - Exception : 
+INFO:root:2016-04-26 15:48:03 - ActionCruiseShip - into_cruiseBK - home主页点击邮轮
+INFO:root:2016-04-26 15:48:04 - ActionCruiseShip - into_cruiseBK - 点击邮轮百科
+INFO:root:2016-04-26 15:48:07 - ActionCruiseShip - into_cruiseBK - Exception : unbound method is_text_exist() must be called with Common instance as first argument (got WebDriver instance instead)
+INFO:root:2016-04-26 15:49:21 - ActionCruiseShip - into_cruiseBK - home主页点击邮轮
+INFO:root:2016-04-26 15:49:23 - ActionCruiseShip - into_cruiseBK - 点击邮轮百科
+INFO:root:2016-04-26 16:00:24 - ActionCruiseShip - into_cruiseBK - home主页点击邮轮
+INFO:root:2016-04-26 16:00:27 - ActionCruiseShip - into_cruiseBK - 点击邮轮百科
+INFO:root:2016-04-26 18:03:56 - ActionCruiseShip - cruise_to_home
+INFO:root:2016-04-26 18:03:56 - home主页点击邮轮
+INFO:root:2016-04-26 18:03:57 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:03:59 - 点击邮轮搜索
+INFO:root:2016-04-26 18:04:06 - 点击返回首页
+INFO:root:2016-04-26 18:04:49 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:04:49 - home主页点击邮轮
+INFO:root:2016-04-26 18:04:51 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:04:53 - 点击邮轮搜索
+INFO:root:2016-04-26 18:04:54 - 点击筛选
+INFO:root:2016-04-26 18:04:56 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:04:56 - Exception : 
+INFO:root:2016-04-26 18:06:39 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:06:39 - home主页点击邮轮
+INFO:root:2016-04-26 18:06:41 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:06:45 - 点击邮轮搜索
+INFO:root:2016-04-26 18:06:51 - 点击筛选
+INFO:root:2016-04-26 18:06:52 - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 18:09:28 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:09:28 - home主页点击邮轮
+INFO:root:2016-04-26 18:09:30 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:09:31 - 点击邮轮搜索
+INFO:root:2016-04-26 18:09:37 - 点击筛选
+INFO:root:2016-04-26 18:09:44 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:09:46 - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 18:11:59 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:11:59 - home主页点击邮轮
+INFO:root:2016-04-26 18:12:01 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:12:03 - 点击邮轮搜索
+INFO:root:2016-04-26 18:12:10 - 点击筛选
+INFO:root:2016-04-26 18:12:14 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:12:14 - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 18:14:12 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:14:12 - home主页点击邮轮
+INFO:root:2016-04-26 18:14:14 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:14:16 - 点击邮轮搜索
+INFO:root:2016-04-26 18:14:21 - 点击筛选
+INFO:root:2016-04-26 18:14:29 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:14:30 - 点击确认
+INFO:root:2016-04-26 18:14:31 - Exception : 'builtin_function_or_method' object has no attribute 'sleep'
+INFO:root:2016-04-26 18:19:44 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:19:44 - home主页点击邮轮
+INFO:root:2016-04-26 18:19:46 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:19:48 - 点击邮轮搜索
+INFO:root:2016-04-26 18:19:48 - 点击筛选
+INFO:root:2016-04-26 18:19:51 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:19:52 - 点击确认
+INFO:root:2016-04-26 18:19:52 - Exception : 'builtin_function_or_method' object has no attribute 'sleep'
+INFO:root:2016-04-26 18:20:51 - ActionCruiseShip - chose_tralve_days
+INFO:root:2016-04-26 18:20:51 - home主页点击邮轮
+INFO:root:2016-04-26 18:20:52 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:21:09 - 点击邮轮搜索
+INFO:root:2016-04-26 18:21:23 - Exception : 
+INFO:root:2016-04-26 18:30:34 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:30:34 - home主页点击邮轮
+INFO:root:2016-04-26 18:30:35 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:30:38 - 点击邮轮搜索
+INFO:root:2016-04-26 18:30:40 - 点击筛选
+INFO:root:2016-04-26 18:30:44 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:30:45 - 点击确认
+INFO:root:2016-04-26 18:30:47 - Exception : class ElementCruiseShip has no attribute 'ID_SURE'
+INFO:root:2016-04-26 18:31:37 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:31:38 - home主页点击邮轮
+INFO:root:2016-04-26 18:31:41 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:31:45 - 点击邮轮搜索
+INFO:root:2016-04-26 18:31:55 - 点击筛选
+INFO:root:2016-04-26 18:32:00 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:32:06 - 点击确认
+INFO:root:2016-04-26 18:32:58 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:32:58 - home主页点击邮轮
+INFO:root:2016-04-26 18:32:59 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:33:01 - 点击邮轮搜索
+INFO:root:2016-04-26 18:33:08 - 点击筛选
+INFO:root:2016-04-26 18:33:16 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:33:18 - 点击确认
+INFO:root:2016-04-26 18:33:20 - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 18:34:45 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:34:45 - home主页点击邮轮
+INFO:root:2016-04-26 18:34:45 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:34:49 - 点击邮轮搜索
+INFO:root:2016-04-26 18:34:56 - 点击筛选
+INFO:root:2016-04-26 18:35:30 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:35:30 - home主页点击邮轮
+INFO:root:2016-04-26 18:35:32 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:35:38 - 点击邮轮搜索
+INFO:root:2016-04-26 18:35:41 - 点击筛选
+INFO:root:2016-04-26 18:35:44 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:35:51 - 点击确认
+INFO:root:2016-04-26 18:36:29 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:36:29 - home主页点击邮轮
+INFO:root:2016-04-26 18:36:31 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:36:32 - 点击邮轮搜索
+INFO:root:2016-04-26 18:36:33 - 点击筛选
+INFO:root:2016-04-26 18:36:36 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:36:38 - 点击确认
+INFO:root:2016-04-26 18:36:40 - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 18:38:23 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:38:23 - home主页点击邮轮
+INFO:root:2016-04-26 18:39:04 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 18:39:06 - home主页点击邮轮
+INFO:root:2016-04-26 18:39:09 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:39:13 - 点击邮轮搜索
+INFO:root:2016-04-26 18:39:20 - 点击筛选
+INFO:root:2016-04-26 18:39:29 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 18:39:33 - 点击确认
+INFO:root:2016-04-26 18:48:17 - ActionCruiseShip - chose_tralve_days
+INFO:root:2016-04-26 18:48:17 - home主页点击邮轮
+INFO:root:2016-04-26 18:48:18 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:48:21 - 点击邮轮搜索
+INFO:root:2016-04-26 18:48:27 - 点击游玩天数
+INFO:root:2016-04-26 18:48:35 - 选择最后一个天数
+INFO:root:2016-04-26 18:48:36 - Exception : 
+INFO:root:2016-04-26 18:49:51 - ActionCruiseShip - sort_price
+INFO:root:2016-04-26 18:49:51 - home主页点击邮轮
+INFO:root:2016-04-26 18:49:52 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:49:56 - 点击邮轮搜索
+INFO:root:2016-04-26 18:50:03 - 点击价格排序
+INFO:root:2016-04-26 18:50:07 - 获取航线列表第一个价格
+INFO:root:2016-04-26 18:50:07 - Exception : 
+INFO:root:2016-04-26 18:53:25 - ActionCruiseShip - chose_tralve_days
+INFO:root:2016-04-26 18:53:25 - home主页点击邮轮
+INFO:root:2016-04-26 18:53:27 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:53:28 - 点击邮轮搜索
+INFO:root:2016-04-26 18:53:34 - 点击游玩天数
+INFO:root:2016-04-26 18:53:41 - 选择最后一个天数
+INFO:root:2016-04-26 18:53:42 - Exception : 
+INFO:root:2016-04-26 18:59:24 - ActionCruiseShip - chose_tralve_days
+INFO:root:2016-04-26 18:59:24 - home主页点击邮轮
+INFO:root:2016-04-26 18:59:26 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 18:59:27 - 点击邮轮搜索
+INFO:root:2016-04-26 18:59:33 - 点击游玩天数
+INFO:root:2016-04-26 18:59:36 - 选择最后一个天数
+INFO:root:2016-04-26 19:00:03 - ActionCruiseShip - sort_price
+INFO:root:2016-04-26 19:00:03 - home主页点击邮轮
+INFO:root:2016-04-26 19:00:04 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 19:00:07 - 点击邮轮搜索
+INFO:root:2016-04-26 19:00:09 - 点击价格排序
+INFO:root:2016-04-26 19:00:12 - 获取航线列表第一个价格
+INFO:root:2016-04-26 19:00:13 - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 19:01:49 - ActionCruiseShip - sort_price
+INFO:root:2016-04-26 19:01:49 - home主页点击邮轮
+INFO:root:2016-04-26 19:01:50 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 19:01:54 - 点击邮轮搜索
+INFO:root:2016-04-26 19:01:56 - 点击价格排序
+INFO:root:2016-04-26 19:02:04 - 获取航线列表第一个价格
+INFO:root:2016-04-26 19:02:04 - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 19:03:12 - ActionCruiseShip - mango_recomend
+INFO:root:2016-04-26 19:03:12 - home主页点击邮轮
+INFO:root:2016-04-26 19:03:14 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 19:03:15 - 点击邮轮搜索
+INFO:root:2016-04-26 19:03:21 - 点击邮轮推荐
+INFO:root:2016-04-26 19:08:22 - ActionCruiseShip - sort_price
+INFO:root:2016-04-26 19:08:22 - home主页点击邮轮
+INFO:root:2016-04-26 19:08:24 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 19:08:25 - 点击邮轮搜索
+INFO:root:2016-04-26 19:08:31 - 点击价格排序
+INFO:root:2016-04-26 19:08:40 - 获取航线列表第一个价格
+INFO:root:2016-04-26 19:08:40 - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 19:13:16 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 19:13:16 - home主页点击邮轮
+INFO:root:2016-04-26 19:13:17 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 19:13:20 - 点击邮轮搜索
+INFO:root:2016-04-26 19:13:21 - 点击筛选
+INFO:root:2016-04-26 19:13:28 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 19:13:30 - 点击确认
+INFO:root:2016-04-26 19:13:33 - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-26 19:17:17 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 19:17:18 - home主页点击邮轮
+INFO:root:2016-04-26 19:17:54 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 19:21:27 - ActionCruiseShip - chose_brand
+INFO:root:2016-04-26 19:21:28 - home主页点击邮轮
+INFO:root:2016-04-26 19:21:31 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 19:21:35 - 点击邮轮搜索
+INFO:root:2016-04-26 19:21:39 - 点击筛选
+INFO:root:2016-04-26 19:21:49 - 选择第一个邮轮品牌
+INFO:root:2016-04-26 19:21:54 - 点击确认
+INFO:root:2016-04-26 19:41:24 - ActionCruiseShip - sort_price
+INFO:root:2016-04-26 19:41:24 - home主页点击邮轮
+INFO:root:2016-04-26 19:41:29 - 邮轮主页点击搜索图标
+INFO:root:2016-04-26 19:41:34 - 点击邮轮搜索
+INFO:root:2016-04-26 19:41:43 - 点击价格排序
+INFO:root:2016-04-26 19:42:02 - 获取航线列表第一个价格
+INFO:root:2016-04-26 19:42:08 - 获取航线列表第二个价格

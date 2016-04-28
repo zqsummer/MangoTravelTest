@@ -1,0 +1,32 @@
+INFO:root:2016-04-27 13:39:21 - ActionCruiseShip - check_screen_factors
+INFO:root:2016-04-27 13:39:21 - home主页点击邮轮
+INFO:root:2016-04-27 13:39:22 - 邮轮主页点击搜索图标
+INFO:root:2016-04-27 13:39:25 - 点击邮轮搜索
+INFO:root:2016-04-27 13:39:49 - 选择最后一个天数
+INFO:root:2016-04-27 13:39:52 - Exception : Message: An element could not be located on the page using the given search parameters.
+
+INFO:root:2016-04-27 13:41:11 - ActionCruiseShip - check_screen_factors
+INFO:root:2016-04-27 13:41:12 - home主页点击邮轮
+INFO:root:2016-04-27 13:41:17 - 邮轮主页点击搜索图标
+INFO:root:2016-04-27 13:41:21 - 点击邮轮搜索
+INFO:root:2016-04-27 13:41:35 - 选择最后一个天数
+INFO:root:2016-04-27 13:43:43 - ActionCruiseShip - check_screen_factors
+INFO:root:2016-04-27 13:43:43 - home主页点击邮轮
+INFO:root:2016-04-27 13:43:44 - 邮轮主页点击搜索图标
+INFO:root:2016-04-27 13:43:51 - 点击邮轮搜索
+INFO:root:2016-04-27 13:44:03 - 选择最后一个天数
+INFO:root:2016-04-27 17:31:07 - ActionCruiseShip - clear_brand
+INFO:root:2016-04-27 17:31:07 - home主页点击邮轮
+INFO:root:2016-04-27 17:31:08 - 邮轮主页点击搜索图标
+INFO:root:2016-04-27 17:31:11 - 点击邮轮搜索
+INFO:root:2016-04-27 17:31:20 - 点击筛选
+INFO:root:2016-04-27 17:31:29 - 选择第一个邮轮品牌
+INFO:root:2016-04-27 17:31:35 - 点击清除选项
+INFO:root:2016-04-27 17:31:52 - 元素：//android.widget.ListView[contains(@index,0)]/android.widget.RelativeLayout[2]/android.widget.ImageView查找超时
+INFO:root:2016-04-27 17:35:19 - ActionCruiseShip - clear_brand
+INFO:root:2016-04-27 17:35:19 - home主页点击邮轮
+INFO:root:2016-04-27 17:35:20 - 邮轮主页点击搜索图标
+INFO:root:2016-04-27 17:35:22 - 点击邮轮搜索
+INFO:root:2016-04-27 17:35:25 - 点击筛选
+INFO:root:2016-04-27 17:35:29 - 选择第一个邮轮品牌
+INFO:root:2016-04-27 17:35:32 - 点击清除选项
